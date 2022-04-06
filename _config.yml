@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Scott A. Bruce"
 title_separator          : "-"
 name                     : &name "Scott A. Bruce"
-description              : &description "personal description"
+description              : &description "New personal description"
 url                      : https://sbruce23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sbruce23/sbruce23.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Scott A. Bruce"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "New biography"
   location         : "Location"
-  employer         :
+  employer         : "Texas A&M University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=WOBOyXMAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sbruce23"
   google_plus      :
   keybase          :
   instagram        :
